@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Kulikov2.cpp
+  Kulikov2Dlg.cpp
+  Создание кода...
+D:\RAF\Study\5T_(3C)\Защита информации\lab2\321321231\Kulikov2\Kulikov2Dlg.cpp(182,12): warning C4244:  инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+  Kulikov2.vcxproj -> D:\RAF\Study\5T_(3C)\Защита информации\lab2\321321231\x64\Debug\Kulikov2.exe
