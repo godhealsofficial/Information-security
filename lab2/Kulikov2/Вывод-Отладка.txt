@@ -1,0 +1,148 @@
+﻿"Kulikov2.exe" (Win32). Загружено "C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\Kulikov2\x64\Debug\Kulikov2.exe". Символы загружены.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\mfc140d.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-timezone-l1-1-0.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-file-l2-1-0.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-localization-l1-2-0.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-synch-l1-2-0.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-processthreads-l1-1-1.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-file-l1-2-0.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\lpk.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\usp10.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\oleaut32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\shlwapi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\msctf.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\uxtheme.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_a4d6a923711520a9\comctl32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a\GdiPlus.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\nvinitx.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\version.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\shell32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Program Files (x86)\TeamViewer\tv_x64.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\dwmapi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\cryptbase.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\clbcatq.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\comdlg32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\comctl32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Program Files\Common Files\Microsoft Shared\ink\tiptsf.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ExplorerFrame.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\duser.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\dui70.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\WindowsCodecs.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\apphelp.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Program Files (x86)\Dropbox\Client\DropboxExt64.3.0.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Users\Ruslan\AppData\Local\Microsoft\OneDrive\17.3.4604.0120_1\amd64\FileSyncShell64.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Users\Ruslan\AppData\Local\Microsoft\OneDrive\17.3.4604.0120_1\amd64\msvcp110.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Users\Ruslan\AppData\Local\Microsoft\OneDrive\17.3.4604.0120_1\amd64\msvcr110.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\wininet.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\urlmon.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\crypt32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\msasn1.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\iertutil.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\xmllite.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\msftedit.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\msls31.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\xmllite.dll"
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\profapi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\xmllite.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\propsys.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\cryptsp.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\rsaenh.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\RpcRtRemote.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\StructuredQuery.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\secur32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\sspicli.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\actxprxy.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Program Files\Internet Explorer\ieproxy.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ntmarta.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\Wldap32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\thumbcache.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\psapi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\shdocvw.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ieframe.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\oleacc.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\slc.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\setupapi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\cfgmgr32.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\devobj.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\SearchFolder.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\networkexplorer.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ntshrui.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\srvcli.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\cscapi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\linkinfo.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\mpr.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\drprov.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\winsta.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\ntlanman.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\davclnt.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\davhlpr.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\wkscli.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\netutils.dll". Загрузка отключена параметром включения и исключения.
+Вызвано исключение по адресу 0x000007FEFD27940D (KernelBase.dll) в Kulikov2.exe: 0x000006BA: Сервер RPC недоступен.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\wpdshext.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\winmm.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\PortableDeviceApi.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\wintrust.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\PortableDeviceTypes.dll". Загрузка отключена параметром включения и исключения.
+Поток 0x1ec8 завершился с кодом 0 (0x0).
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\EhStorShell.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\EhStorAPI.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\samcli.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\samlib.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Выгружено "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"
+Поток 0x19e4 завершился с кодом 0 (0x0).
+Поток 0x578 завершился с кодом 0 (0x0).
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\msftedit.dll"
+Поток 0x1710 завершился с кодом 0 (0x0).
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\EhStorShell.dll"
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\wpdshext.dll"
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\msftedit.dll". Загрузка отключена параметром включения и исключения.
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\wpdshext.dll". Загрузка отключена параметром включения и исключения.
+Поток 0x1bc8 завершился с кодом 0 (0x0).
+"Kulikov2.exe" (Win32). Загружено "C:\Windows\System32\EhStorShell.dll". Загрузка отключена параметром включения и исключения.
+Поток 0x1064 завершился с кодом 0 (0x0).
+Поток 0x890 завершился с кодом 0 (0x0).
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\msftedit.dll"
+Поток 0x17ac завершился с кодом 0 (0x0).
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\EhStorShell.dll"
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\wpdshext.dll"
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\thumbcache.dll"
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\ExplorerFrame.dll"
+"Kulikov2.exe" (Win32). Выгружено "C:\Program Files\Common Files\Microsoft Shared\ink\tiptsf.dll"
+"Kulikov2.exe" (Win32). Выгружено "C:\Windows\System32\comdlg32.dll"
+Поток 0xf38 завершился с кодом 0 (0x0).
+Поток 0x1650 завершился с кодом 0 (0x0).
+Поток 0x1dc8 завершился с кодом 0 (0x0).
+Detected memory leaks!
+Dumping objects ->
+Поток 0x1f2c завершился с кодом 0 (0x0).
+Поток 0x1744 завершился с кодом 0 (0x0).
+Поток 0xdc4 завершился с кодом 0 (0x0).
+Поток 0xd4c завершился с кодом 0 (0x0).
+c:\users\ruslan\documents\visual studio 2015\projects\kulikov2\kulikov2\kulikov2dlg.cpp(191) : Поток 0x1af0 завершился с кодом 0 (0x0).
+Поток 0x1ff0 завершился с кодом 0 (0x0).
+{1395} normal block at 0x000000000412D7D0, 2048 bytes long.
+Поток 0x1c68 завершился с кодом 0 (0x0).
+ Data: <                > 20 CD CD CD B5 12 00 00 EE CD CD CD 8C 0B 00 00 
+c:\users\ruslan\documents\visual studio 2015\projects\kulikov2\kulikov2\kulikov2dlg.cpp(191) : {1394} normal block at 0x0000000004161980, 2048 bytes long.
+Поток 0x18e0 завершился с кодом 0 (0x0).
+ Data: <                > 20 CD CD CD B5 12 00 00 F5 CD CD CD 8C 0B 00 00 
+Object dump complete.
+Поток 0xd14 завершился с кодом 0 (0x0).
+Поток 0x1798 завершился с кодом 0 (0x0).
+Поток 0x1ed4 завершился с кодом 0 (0x0).
+Программа "[6600] Kulikov2.exe" завершилась с кодом 0 (0x0).

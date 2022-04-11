@@ -1,0 +1,11 @@
+﻿  Kulikov2Dlg.cpp
+c:\users\ruslan\documents\visual studio 2015\projects\kulikov2\kulikov2\kulikov2dlg.cpp(174): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+c:\users\ruslan\documents\visual studio 2015\projects\kulikov2\kulikov2\kulikov2dlg.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ruslan\documents\visual studio 2015\projects\kulikov2\kulikov2\kulikov2dlg.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ruslan\documents\visual studio 2015\projects\kulikov2\kulikov2\kulikov2dlg.cpp(222): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Компиляция...
+  Kulikov2.cpp
+  Создание кода...
+  Kulikov2.vcxproj -> c:\users\ruslan\documents\visual studio 2015\Projects\Kulikov2\Debug\Kulikov2.exe
+  Kulikov2.vcxproj -> c:\users\ruslan\documents\visual studio 2015\Projects\Kulikov2\Debug\Kulikov2.pdb (Full PDB)
